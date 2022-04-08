@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://cos.pgyer.com/5383e5bb142afd4dd3ddb628926f5480.ipa?sign=cc3bdbcdf95cf79d79e70dca58086016&amp;t=1649403307&amp;response-content-disposition=attachment%3Bfilename%3D招银直销_1.0.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.cmbwm.app.ids</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>招银直销</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
